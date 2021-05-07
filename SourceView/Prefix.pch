@@ -1,0 +1,6 @@
+#ifdef __OBJC__
+@import Cocoa;
+@import Foundation;
+#endif
+
+#define HTTP_PREFIX @"http://"
